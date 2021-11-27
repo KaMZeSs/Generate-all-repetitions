@@ -1,0 +1,13 @@
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.exe
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.deps.json
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.runtimeconfig.json
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.runtimeconfig.dev.json
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.dll
+E:\Repos\notation_Test\bin\Debug\netcoreapp3.1\notation_Test.pdb
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.csproj.AssemblyReference.cache
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.AssemblyInfoInputs.cache
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.AssemblyInfo.cs
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.csproj.CoreCompileInputs.cache
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.dll
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.pdb
+E:\Repos\notation_Test\obj\Debug\netcoreapp3.1\notation_Test.genruntimeconfig.cache

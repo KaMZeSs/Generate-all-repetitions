@@ -1,0 +1,13 @@
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.exe
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.deps.json
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.runtimeconfig.json
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.runtimeconfig.dev.json
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.dll
+E:\Repos\Generate all repetitions\bin\Debug\netcoreapp3.1\Generate-all-repetitions.pdb
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.csproj.AssemblyReference.cache
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.AssemblyInfoInputs.cache
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.AssemblyInfo.cs
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.csproj.CoreCompileInputs.cache
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.dll
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.pdb
+E:\Repos\Generate all repetitions\obj\Debug\netcoreapp3.1\Generate-all-repetitions.genruntimeconfig.cache

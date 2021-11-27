@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generate all repetitions/1.0.0": {
+        "runtime": {
+          "Generate all repetitions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate all repetitions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
